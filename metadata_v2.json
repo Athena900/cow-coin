@@ -1,0 +1,9 @@
+{
+  "name": "qi caw coin",
+  "symbol": "QCC",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Athena900/cow-coin/main/qcc.png",
+  "properties": {
+    "category": "fungible"
+  }
+}
